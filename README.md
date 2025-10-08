@@ -1,4 +1,4 @@
-#Hi, I’m Geanderson Pinheiro
+# 👋Hi, I’m Geanderson Pinheiro
 
 💻 Aspiring Fullstack Developer currently learning JavaScript and PHP
 🚀 Passionate about technology and eager to turn ideas into digital solutions
