@@ -1,17 +1,18 @@
-# 👋 Olá, eu sou Geanderson Pinheiro
+# Hi, I’m Geanderson Pinheiro
 
-💻 **Desenvolvedor Fullstack** com foco em **JavaScript e PHP**  
-🚀 Apaixonado por transformar ideias em soluções digitais completas – do **frontend** ao **backend**  
-🎯 Busco sempre escrever **código limpo, eficiente e escalável**  
+💻 Fullstack Developer specialized in JavaScript and PHP
+🚀 Passionate about building complete digital solutions – from frontend to backend
+🎯 Focused on writing clean, efficient, and scalable code
 
----
+🧑‍💻 About me
 
-## 🧑‍💻 Sobre mim
-- 🌍 Atuação como **Fullstack Developer** em projetos web  
-- 🛠 Experiência em **desenvolvimento de sistemas, APIs e aplicações responsivas**  
-- 📚 Estudo constante de **boas práticas, arquitetura de software e novas tecnologias**  
-- 🤝 Aberto a oportunidades e colaborações que gerem impacto real  
+🌍 Experience in web systems, APIs, and responsive applications development
 
+🛠 Working as a Fullstack Developer on projects ranging from small to large scale
+
+📚 Constantly learning about best practices, software architecture, and new technologies
+
+🤝 Open to opportunities and collaborations that create real impact
 ---
 
 ## 🛠️ Tech Stack
