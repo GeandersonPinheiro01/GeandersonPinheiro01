@@ -1,18 +1,18 @@
-# Hi, I’m Geanderson Pinheiro
+#Hi, I’m Geanderson Pinheiro
 
-💻 Fullstack Developer specialized in JavaScript and PHP
-🚀 Passionate about building complete digital solutions – from frontend to backend
-🎯 Focused on writing clean, efficient, and scalable code
+💻 Aspiring Fullstack Developer currently learning JavaScript and PHP
+🚀 Passionate about technology and eager to turn ideas into digital solutions
+🎯 Focused on building a solid foundation with clean, efficient, and scalable code
 
 🧑‍💻 About me
 
-🌍 Experience in web systems, APIs, and responsive applications development
+🌍 Beginner developer exploring frontend and backend development
 
-🛠 Working as a Fullstack Developer on projects ranging from small to large scale
+🛠 Practicing by building small projects, APIs, and responsive web apps
 
-📚 Constantly learning about best practices, software architecture, and new technologies
+📚 Constantly learning best practices, software architecture, and modern technologies
 
-🤝 Open to opportunities and collaborations that create real impact
+🤝 Excited to collaborate, gain experience, and contribute to impactful projects
 ---
 
 ## 🛠️ Tech Stack
